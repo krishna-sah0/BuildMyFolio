@@ -1,5 +1,5 @@
 # AI Portfolio Builder
-
+THIS IS MY PORTFOLIO LINK AND HOST BY THE GOOGLE AI STUDIO : https://ai.studio/apps/drive/1ombRMJgNax6RyD1bHkIsqIFmuubNk6Xx   ( By using API you can RUN)
 How to Run 
 Step 1:
 <img width="1356" height="595" alt="image" src="https://github.com/user-attachments/assets/18a79a67-4d91-4e06-bfc0-8ce95cc062fa" />
