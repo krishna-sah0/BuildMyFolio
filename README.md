@@ -1,5 +1,20 @@
 # AI Portfolio Builder
 
+How to Run 
+Step 1:
+<img width="1356" height="595" alt="image" src="https://github.com/user-attachments/assets/18a79a67-4d91-4e06-bfc0-8ce95cc062fa" />
+Step 2: 
+<img width="922" height="583" alt="image" src="https://github.com/user-attachments/assets/42a9f0a9-2903-4309-a0e0-eb5ece5e3c19" />
+Step 3: 
+<img width="1283" height="604" alt="image" src="https://github.com/user-attachments/assets/834f9e82-418e-4bbd-ae3a-b406ee1d1077" />
+Step 4:
+Click Here Admin
+User name : admin
+Passsword : password123
+<img width="511" height="497" alt="image" src="https://github.com/user-attachments/assets/4d7fa448-f97d-4cb5-a942-f6ceb3142f74" />
+
+NOW YOU CAN CUSTOMIZE AS YOU NEED
+
 > An AI-powered application that generates a modern, professional portfolio website from a user's resume or LinkedIn profile. It includes a secure admin panel for easy content updates and allows users to download their portfolio as a self-contained static website.
 
 This project demonstrates the power of generative AI (Google Gemini) combined with a modern frontend stack (React, TypeScript) to create a dynamic, user-friendly tool for professionals.
