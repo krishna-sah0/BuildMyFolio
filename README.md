@@ -13,6 +13,8 @@ User name : admin
 Passsword : password123
 <img width="511" height="497" alt="image" src="https://github.com/user-attachments/assets/4d7fa448-f97d-4cb5-a942-f6ceb3142f74" />
 
+
+
 NOW YOU CAN CUSTOMIZE AS YOU NEED
 
 > An AI-powered application that generates a modern, professional portfolio website from a user's resume or LinkedIn profile. It includes a secure admin panel for easy content updates and allows users to download their portfolio as a self-contained static website.
